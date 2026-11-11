@@ -6,7 +6,7 @@ authors:
 lastUpdated: 2026-10-12
 ---
 
-Un **Canvas** es un espacio compartido y bidireccional donde tú y un agente podéis actualizar el mismo plan, tablero, lista de comprobación o panel. Explora un Canvas Kanban que convierte las incidencias del repositorio en un flujo de trabajo visual.
+Un **Canvas** es un espacio compartido y bidireccional donde puedes actualizar, junto con un agente, el mismo plan, tablero, lista de comprobación o panel. Explora un Canvas Kanban que convierte las incidencias del repositorio en un flujo de trabajo visual.
 
 En esta lección:
 

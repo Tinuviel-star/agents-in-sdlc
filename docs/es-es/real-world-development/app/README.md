@@ -18,7 +18,7 @@ El taller sigue un único flujo continuo de Tailspin Toys:
 6. Añade el servidor Model Context Protocol (MCP) de Playwright y úsalo para explorar el filtrado en un navegador.
 7. Crea un agente personalizado de control de calidad (QA) y úsalo para revisar los requisitos, la cobertura y las pruebas de verificación.
 8. Revisa el cambio completo de filtrado y utiliza Agent Merge para la segunda PR.
-9. Usa el lienzo Database Explorer existente y, después, crea y prueba un lienzo de clasificación respaldado por el repositorio.
+9. Comprueba si los lienzos están disponibles y, después, utiliza Database Explorer para crear y probar un lienzo de clasificación respaldado por el repositorio. Si las capacidades necesarias no están disponibles, anota el impedimento y utiliza la alternativa de solo lectura o continúa con el repaso.
 
 Para mantener el taller centrado, crearás dos PR: una para las valoraciones por estrellas y otra para el filtrado con las actualizaciones de instrucciones y de la habilidad, el perfil QA y las pruebas. Empieza cada una desde `main` actualizado. El flujo de filtrado y calidad comparte una sesión, un worktree y una rama para que puedas aprovechar el trabajo realizado mientras exploras cada herramienta. El ejercicio final del lienzo permanece en su propia sesión para que puedas centrarte en crear y probar la superficie compartida en lugar de repetir el flujo de PR.
 
@@ -35,7 +35,7 @@ Para mantener el taller centrado, crearás dos PR: una para las valoraciones por
 | [6. Validar la funcionalidad con MCP de Playwright][ex6] | Observación en el navegador | Configura MCP mediante Customize y examina el comportamiento del filtrado |
 | [7. Crear y utilizar un agente QA][ex7] | Requisitos y cobertura | Crea y selecciona un perfil especializado y reúne las pruebas de verificación finales |
 | [8. Crear y combinar la PR de la funcionalidad][ex8] | Revisión y combinación | Revisa el filtrado, las instrucciones, la habilidad, el perfil QA y las pruebas y utiliza Agent Merge para la segunda PR |
-| [9. Explorar y crear lienzos][ex9] | Colaboración | Usa Database Explorer y, después, crea y prueba un lienzo de clasificación respaldado por el repositorio |
+| [9. Explorar y crear lienzos][ex9] | Colaboración | Comprueba si los lienzos están disponibles y crea un lienzo de clasificación respaldado por el repositorio, o utiliza la alternativa de solo lectura |
 | [10. Repaso y pasos siguientes][ex10] | Resumen | Revisa el flujo, los recursos creados y otros materiales |
 
 ## Requisitos previos

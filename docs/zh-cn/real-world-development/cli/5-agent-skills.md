@@ -115,7 +115,7 @@ description: All changes to code must follow the guidance documented in the repo
 - [Agent Skills 存储库][agent-skills-repo]
 - [awesome-copilot 上的 Agent Skills][awesome-copilot-skills]
 
-[previous-lesson]: ../4-mcp/
-[next-lesson]: ../6-custom-agents/
+[previous-lesson]: ../4-custom-instructions/
+[next-lesson]: ../6-mcp-playwright/
 [about-agent-skills]: https://docs.github.com/copilot/concepts/agents/about-agent-skills
 [awesome-copilot-skills]: https://github.com/github/awesome-copilot/tree/main/skills
